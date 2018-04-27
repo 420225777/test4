@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlertDialog</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="signin">log in</string>
+    <string name="cancel">cancel</string>
+</resources>
